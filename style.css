@@ -15,6 +15,7 @@ header{
 footer{
    color: rgb(255, 255, 255);
    font-size: 24pt;
+   margin: auto;
 }
 body{
    font-family: 'Inria Serif', serif;
