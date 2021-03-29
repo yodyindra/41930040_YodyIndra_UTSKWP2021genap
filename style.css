@@ -17,6 +17,7 @@ footer{
    font-size: 16pt;
    margin: auto;
    padding: 24px;
+   text-align: center;
 }
 body{
    font-family: 'Inria Serif', serif;
