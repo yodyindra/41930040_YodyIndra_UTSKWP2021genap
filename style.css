@@ -5,7 +5,7 @@
 
 .border-sample{
     border:thin solid black !important;
-    background-color: aliceblue;
+    background-color: #008b8b;
 }
 header{
    color: #6495ED;
@@ -48,9 +48,6 @@ section{
 }
 section.border-sample{
    background-color: aquamarine;
-}
-footer.border-sample{
-   background-color: darkcyan;
 }
 p.beda-warna{
     color: darkslategray;
